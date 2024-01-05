@@ -13,8 +13,8 @@ Features
 
 Installation
 
-1. Clone the repository: `git clone https://github.com/84ximba/ximbathulane.git`
-2. Navigate to the project directory: `cd ximbathulane`
+1. Clone the repository: `git clone https://github.com/84ximba/ximba-01.git`
+2. Navigate to the project directory: `cd ximba-01`
 3. Install the requirements: `pip install -r requirements.txt`
 
 Usage
